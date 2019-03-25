@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\Lab14\Lab14\bin\Debug\Lab14.exe.config
+C:\Users\PC\source\repos\Lab14\Lab14\bin\Debug\Lab14.exe
+C:\Users\PC\source\repos\Lab14\Lab14\bin\Debug\Lab14.pdb
+C:\Users\PC\source\repos\Lab14\Lab14\obj\Debug\Lab14.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Lab14\Lab14\obj\Debug\Lab14.exe
+C:\Users\PC\source\repos\Lab14\Lab14\obj\Debug\Lab14.pdb
